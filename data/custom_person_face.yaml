@@ -1,0 +1,7 @@
+train: ../../Data/body_parts/train
+val: ../../Data/body_parts/val
+
+# number of classes
+nc: 2
+# class names
+names: ['person', 'face']

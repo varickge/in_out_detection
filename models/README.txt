@@ -1,0 +1,2 @@
+The weights for Door detection should be placed here. 
+For that, visit https://www.dropbox.com/scl/fo/qguqo5157kaqyydwrfv5m/h?dl=0&rlkey=vcpetwa4hzszobxa56msgrcgt , download the 'door_model' folder, and place it in this directory.
